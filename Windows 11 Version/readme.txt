@@ -1,5 +1,5 @@
 1. SYSTEM
-    -Betriebssystem: Windows 11 Enterpriseeinste
+    -Betriebssystem: Windows 11 Enterprise
     -Gerät: HP EliteBook 6 G1i 16 inch
     -Python Version: 3.13
 
